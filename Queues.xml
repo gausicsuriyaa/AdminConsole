@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Queues>
+  <Queue id="Queue-1"></Queue>
+  <Queue id="Queue-2"></Queue>
+  <Queue id="Queue-3"></Queue>
+</Queues>

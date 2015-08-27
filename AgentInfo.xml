@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Agents>
+  <Agent id="Agent1" queues="Queue1,Queue2" status="AVAIALBLE" />
+  <Agent id="Agent2" queues="Queue2" status="ON CALL" />
+  <Agent id="Agent3" queues="Queue3,Queue1" status="ON CALL" />
+  <Agent id="Agent4" queues="Queue1,Queue4,Queue5" status="ON CALL" />
+  <Agent id="Agent5" queues="Queue5" status="ON CALL" />
+</Agents>
